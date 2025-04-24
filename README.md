@@ -148,3 +148,4 @@ Here are some additional wireframes I did using Figma and Looka!
 ### [BONUS] Interactive Prototype
 
 Here is a link to a demo of the progress so far [https://imgur.com/a/8kvHlsW].
+Actual Interactive Prototype: [https://imgur.com/lp9usQN]
