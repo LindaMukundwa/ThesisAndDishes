@@ -49,6 +49,7 @@ Thesis & Dishes is an app built for the experience that college students go thro
 
 **Required Must-have Stories**
 
+[✅ ] User can open to the main page
 * User can browse recipes filtered by time and skill level
 * User can save/unsave recipes
 * User's saved recipes can be accessed locally (no login needed for MVP)
@@ -56,7 +57,6 @@ Thesis & Dishes is an app built for the experience that college students go thro
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
 * User can scan pantry items
 * User can plan weekly meals
 * User can receive meal-prep reminders
@@ -103,7 +103,7 @@ Log out
 
 **Tab Navigation and Flow Navigation** (Tab to Screen)
 
-Login Screen
+[✅ ] Login Screen
 
 => Home Feed (after successful login).
 
